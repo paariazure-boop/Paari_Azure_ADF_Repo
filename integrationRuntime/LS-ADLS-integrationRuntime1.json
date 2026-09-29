@@ -1,0 +1,6 @@
+{
+	"name": "LS-ADLS-integrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
